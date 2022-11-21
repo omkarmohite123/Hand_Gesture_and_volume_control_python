@@ -25,3 +25,6 @@ We’ll use this library to find the distance between point number 4 (the thumb)
 
 pycaw depends on these two libraries. Ctypes provides C language compatible data types. Comtypes bases on the ctypes FFI(Foreign Function Interface) library.
 
+refere link:
+
+https://www.section.io/engineering-education/creating-a-hand-gesture-volume-controller-using-python-and-pycharm/#prerequisites
